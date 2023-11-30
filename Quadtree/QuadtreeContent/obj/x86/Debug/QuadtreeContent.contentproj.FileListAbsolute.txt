@@ -1,0 +1,4 @@
+c:\users\beatr\onedrive\documentos\visual studio 2013\Projects\Quadtree\Quadtree\QuadtreeContent\obj\x86\Debug\QuadtreeContent.contentprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Faculdade IF\JOGOS PARA CONSOLES\QuadTree\Quadtree\QuadtreeContent\obj\x86\Debug\QuadtreeContent.contentprojAssemblyReference.cache
+D:\Faculdade\Consoles\Quadtree\QuadtreeContent\obj\x86\Debug\QuadtreeContent.contentproj.AssemblyReference.cache
+D:\Faculdade\Consoles\Quadtree\QuadtreeContent\obj\x86\Debug\QuadtreeContent.contentproj.CoreCompileInputs.cache

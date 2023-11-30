@@ -1,0 +1,31 @@
+c:\users\beatr\onedrive\documentos\visual studio 2013\Projects\Quadtree\Quadtree\Quadtree\bin\x86\Debug\Quadtree.exe
+c:\users\beatr\onedrive\documentos\visual studio 2013\Projects\Quadtree\Quadtree\Quadtree\bin\x86\Debug\Quadtree.pdb
+c:\users\beatr\onedrive\documentos\visual studio 2013\Projects\Quadtree\Quadtree\Quadtree\obj\x86\Debug\Quadtree.csprojResolveAssemblyReference.cache
+c:\users\beatr\onedrive\documentos\visual studio 2013\Projects\Quadtree\Quadtree\Quadtree\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\beatr\onedrive\documentos\visual studio 2013\Projects\Quadtree\Quadtree\Quadtree\obj\x86\Debug\Quadtree.exe
+c:\users\beatr\onedrive\documentos\visual studio 2013\Projects\Quadtree\Quadtree\Quadtree\obj\x86\Debug\Quadtree.pdb
+C:\Users\beatr\OneDrive\documentos\visual studio 2013\Projects\Quadtree\Quadtree\Quadtree\bin\x86\Debug\Content\Texture\square.xnb
+C:\Users\beatr\OneDrive\documentos\visual studio 2013\Projects\Quadtree\Quadtree\Quadtree\bin\x86\Debug\Content\Texture\bullet.xnb
+C:\Users\beatr\OneDrive\documentos\visual studio 2013\Projects\Quadtree\Quadtree\Quadtree\bin\x86\Debug\Content\Texture\player.xnb
+C:\Users\gabri\OneDrive\Documentos\Faculdade IF\JOGOS PARA CONSOLES\QuadTree\Quadtree\Quadtree\obj\x86\Debug\Quadtree.pdb
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Content\Texture\square.xnb
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Content\Texture\bullet.xnb
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Content\Texture\player.xnb
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Quadtree.exe
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Quadtree.pdb
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\Faculdade\Consoles\Quadtree\Quadtree\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\Faculdade\Consoles\Quadtree\Quadtree\obj\x86\Debug\Quadtree.csproj.AssemblyReference.cache
+D:\Faculdade\Consoles\Quadtree\Quadtree\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Faculdade\Consoles\Quadtree\Quadtree\obj\x86\Debug\Quadtree.csproj.CoreCompileInputs.cache
+D:\Faculdade\Consoles\Quadtree\Quadtree\obj\x86\Debug\Quadtree.csproj.CopyComplete
+D:\Faculdade\Consoles\Quadtree\Quadtree\obj\x86\Debug\Quadtree.exe
+D:\Faculdade\Consoles\Quadtree\Quadtree\obj\x86\Debug\Quadtree.pdb

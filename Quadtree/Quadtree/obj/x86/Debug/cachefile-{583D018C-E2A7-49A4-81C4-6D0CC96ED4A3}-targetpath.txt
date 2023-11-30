@@ -1,0 +1,3 @@
+Content\Texture\square.xnb
+Content\Texture\bullet.xnb
+Content\Texture\player.xnb
